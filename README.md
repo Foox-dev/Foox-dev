@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, C#**
 
-- 💬 Ask me about **FennixImdi**
+- 💬 Ask me about **AtroxFN**
 
 - 📫 How to reach me **foox.dev@gmail.com**
 
