@@ -10,7 +10,7 @@ I'm a software developer working with Python, Batchscript, JavaScript, HTML Fram
 
 ## Connect with me 🌐
 
-Feel free to reach out or follow me on [Twitter](https://twitter.com/your_twitter_handle), [LinkedIn](https://www.linkedin.com/in/your_linkedin_username/), or check out my [personal website](https://yourwebsite.com).
+Feel free to reach out or follow me on [Twitter](https://twitter.com/Foox_dev) or check out my [personal website](https://fennixindi.net).
 
 I'm always open to interesting conversations and collaboration.
 
